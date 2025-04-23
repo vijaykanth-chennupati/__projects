@@ -1,0 +1,1 @@
+select name, host_name, price from airbnb order by price desc limit 5

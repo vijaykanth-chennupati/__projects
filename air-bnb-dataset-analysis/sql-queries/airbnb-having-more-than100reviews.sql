@@ -1,0 +1,1 @@
+select name, number_of_reviews, price from airbnb where number_of_reviews>100 order by number_of_reviews desc

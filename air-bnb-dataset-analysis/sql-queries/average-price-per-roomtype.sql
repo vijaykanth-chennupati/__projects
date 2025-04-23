@@ -1,0 +1,1 @@
+select room_type, avg(price) as avg_price from airbnb group by room_type
